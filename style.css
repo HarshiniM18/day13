@@ -1,0 +1,13 @@
+a{
+    text-decoration: underline;
+}
+.box{
+    background-color: darkgray;
+    padding:30px;
+}
+.box-part{
+    background-color: white;
+    padding:30px 50px;
+    margin:20px;
+    text-align: center;
+}
